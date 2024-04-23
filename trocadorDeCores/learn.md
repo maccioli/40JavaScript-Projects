@@ -1,4 +1,4 @@
-# H1 Conceitos importantes tratados nesse tutorial:
+# H1 Conceitos importantes utilizados
 
 - arrays
 - document.getElementById()
