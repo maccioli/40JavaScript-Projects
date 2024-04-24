@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    appearance: none;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 850px;
+    width: 100%;
+}
+
+main {
+    display: flex;
+    border-radius: 15px;
+    height: 60%;
+    width: 50%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: darkslategrey;
+}
+
+.contador {
+    display: flex;
+    padding: 10px;
+    margin: 15px;
+}
+.marcador {
+    display: flex;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    margin: 15px;
+}
+
+button {
+    border-radius: 15px;
+    width: 120px;
+    height: 40px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: brown;
+}
+
+.fontContador {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 80px;
+    font-weight: bold;
+    color: aliceblue;
+}
+.fontNumero {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 80px;
+    font-weight: bold;
+    color: aliceblue;
+}
